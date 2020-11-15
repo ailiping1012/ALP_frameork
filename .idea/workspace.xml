@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78ebc0ec-0c41-40e5-b1ca-5f6a3c1b4827" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/localconfig.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samples/20201115/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samples/20201115/excel_oper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samples/20201115/test_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samples/20201115/test_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samples/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/config_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605422845790</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20201115第一次提交">
+      <created>1605423137738</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605423137738</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -73,18 +72,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="20201115第一次提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1605422837599">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1605423134327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605422837599" />
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605423134327" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1605411860618">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605411860618" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605422874170">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605423153723">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605422874170" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605423153723" />
     <state x="484" y="269" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605411943556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
